@@ -1,3 +1,13 @@
+### Skills:
+ - React, Redux, axios, react-router-dom
+ - JavaScript ES6+, JQuery
+ - Webpack, Gulp, ESLint
+ - HTML, CSS, Sass, adaptive responsive, BEM
+ - Jira, Airtable
+
+
+
+
 ### Codewars
 [![codewars](https://www.codewars.com/users/SkyHobbit36/badges/large)](https://www.codewars.com/users/SkyHobbit36)
 ### Activity
