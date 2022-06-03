@@ -3,7 +3,8 @@
  - JavaScript ES6+, JQuery
  - Webpack, Gulp, ESLint
  - HTML, CSS, Sass, adaptive responsive, BEM
- - Jira, Airtable
+ - Airtable API
+ - Jira
 
 ### Projects:
  - [todo app, react](https://github.com/SkyHobbit36/todo)
