@@ -5,7 +5,7 @@
  - HTML, CSS, Sass, adaptive responsive, BEM
  - Jira, Airtable
 
-### Best projects:
+### Projects:
  - [todo app, react](https://github.com/SkyHobbit36/todo)
  - [Landing page, html-coding](https://github.com/SkyHobbit36/my-simple-site)
  - [site, html-coding, js-coding](https://github.com/SkyHobbit36/shelter/tree/gh-pages),  [deploy](https://skyhobbit36.github.io/shelter/index.html)
