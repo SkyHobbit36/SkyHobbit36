@@ -1,10 +1,9 @@
 ### Skills:
- - React, Redux, axios, react-router-dom
- - JavaScript ES6+, JQuery
- - Webpack, Gulp, ESLint
- - HTML, CSS, Sass, adaptive responsive, BEM
- - Airtable API
- - Jira
+ - JavaScript, TypeScript
+ - React, Redux, Next JS
+ - Ant Design, Bootstrap, Tailwind
+ - HTML, CSS, Sass, BEM
+ - Webpack, Gulp, ESLint, 
 
 ### Projects:
  - [todo app, react](https://github.com/SkyHobbit36/todo)
