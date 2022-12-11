@@ -1,6 +1,7 @@
 ### Skills:
  - JavaScript, TypeScript
- - React, Redux, Next JS
+ - React, Redux, Next
+ - Nest, Node, MySQL, Express
  - Ant Design, Bootstrap, Tailwind
  - HTML, CSS, Sass, BEM
  - Webpack, Gulp, ESLint, 
